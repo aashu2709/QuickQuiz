@@ -1,0 +1,46 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: gilroy;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background: #EBD3F8;
+}
+
+header {
+    background: #704264;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+
+main {
+    font-size: 20px;
+    padding: 50px;
+    font-weight: 600;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #704264;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+h2 {
+    margin: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
